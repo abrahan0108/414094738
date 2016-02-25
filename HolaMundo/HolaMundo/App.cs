@@ -9,7 +9,7 @@ namespace HolaMundo
 		{	
 			return new ContentPage { 
 				Content = new Label {
-					Text = "Hola mundo!",
+					Text = "Abrahán Cortés Hernández, Número de cuenta: 414094738",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
 					HorizontalOptions = LayoutOptions.CenterAndExpand,
 				},
